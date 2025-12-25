@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Rusty and I'm a junior web developer from North Fort Myers, Florida!</h2>
+<h2 align="left">Hi 👋! My name is Rusty, a junior web developer from North Fort Myers, Florida! I started off learning UX design before I realized I wanted to go just a step further with my skills. Now I create websites and apps in my free time!</h2>
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/cat-blush-gif-19217408"  />
+<img align="right" height="150" src="https://tenor.com/search/tongue-cat-gifs"  />
 
 ###
 
@@ -18,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
 </div>
 
 ###
