@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/search/tongue-cat-gifs"  />
+<img align="right" height="150" src="https://tenor.com/view/rigby-freaky-cat-cat-meme-tongue-out-gif-1492882876567450372"  />
 
 ###
 
