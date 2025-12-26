@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rusty, a junior web developer from North Fort Myers, Florida! I started off learning UX design before I realized I wanted to go just a step further with my skills. Now I create websites and apps in my free time!</h2>
+<h2 align="left">Hi 👋! My name is Rusty! I'm a junior web developer from North Fort Myers, Florida. I started off learning UX design and even getting a Google Cert in it before I realized I wanted to go just a step further with my skills. Now I create websites and apps in my free time!</h2>
 
 ###
 
